@@ -1,0 +1,170 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+.navbar {
+    background:black;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.description2 {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description2 h1 {
+	color:white;
+}
+.description2 p {
+	color:white;
+	font-size: 1.2rem;
+	line-height: 1.5;
+}
+
+.feature-title{
+    color: white;
+}
+
+.Tallaght h2{
+    color: white;
+}
+
+.Tallaght h5{
+    color: white;
+}
+
+.Tallaght p{
+    color: white;
+}
+
+
+
+.description3 {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description3 h1 {
+	color:white;
+}
+.description3 p {
+	color:white;
+	font-size: 1.2rem;
+	line-height: 1.5;
+}
+
+.description4 {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description4 h1 {
+	color:white;
+}
+.description4 p {
+	color:white;
+	font-size: 1.0rem;
+	line-height: 1.5;
+}
+
+.description4 h3 {
+	color:white;
+}
+.description4 p {
+	color:white;
+	font-size: 1.0rem;
+	line-height: 1.5;
+}
+
+.description5 {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description5 h1 {
+	color:white;
+}
+.description5 p {
+	color:white;
+	font-size: 1.0rem;
+	line-height: 1.5;
+}
+
+.description5 h3 {
+	color:white;
+}
+.description5 p {
+	color:white;
+	font-size: 1.0rem;
+	line-height: 1.5;
+}
+
+
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+    color:white;
+}
+
+.description button {
+    border:1px solid black;
+    background:black;
+    border-radius: 0;
+    color:#fff;
+}
+.description button:hover {
+    border:1px solid #fff;
+    background:#fff;
+    color:#000;
+}
+
+.features .form-control,
+.features input {
+	border-radius: 0;
+}
+.features .btn {
+    background-color:black;
+    border: 1px solid black;
+    color: #fff;
+    margin-top: 20px;
+}
+.features .btn:hover {
+    background-color: black;
+    border: black;
+}
+
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+
